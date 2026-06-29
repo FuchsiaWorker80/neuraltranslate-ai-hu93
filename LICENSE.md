@@ -1,4 +1,4 @@
-# 
+# Official NeuralTranslate script. Download and install with community-support and detailed-docs — fast, secure, and easy to use.
 
 
 
